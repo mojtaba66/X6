@@ -6,7 +6,7 @@ Graph.registerNode(
     inherit: 'circle',
     attrs: {
       body: {
-        strokeWidth: 2,
+        strokeWidth: 1,
         stroke: '#5F95FF',
         fill: '#FFF',
       },
